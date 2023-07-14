@@ -1,11 +1,35 @@
 #hd {
   align-items: center;
+  background-color: #e6e6e6;
   padding: 0 1rem;
   border-bottom: 1px solid #ccc;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+#hd h1 a img {
+  height: 35px;
 }
 #hd ul li a {
   padding: 0 0.3rem;
 }
 #hd ul li a:hover {
   color: olivedrab;
+}
+
+.section {
+  height: 100vh;
+}
+
+#about {
+  background-color: brown;
+}
+
+#showroom {
+  background-color: rgb(62, 203, 228);
+}
+
+#contact {
+  background-color: rgb(218, 77, 136);
 }/*# sourceMappingURL=origin.css.map */

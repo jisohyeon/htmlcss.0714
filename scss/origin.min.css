@@ -1,1 +1,1 @@
-#hd{align-items:center;padding:0 1rem;border-bottom:1px solid #ccc}#hd ul li a{padding:0 .3rem}#hd ul li a:hover{color:#6b8e23}/*# sourceMappingURL=origin.min.css.map */
+#hd{align-items:center;background-color:#e6e6e6;padding:0 1rem;border-bottom:1px solid #ccc;position:fixed;left:0;right:0;top:0}#hd h1 a img{height:35px}#hd ul li a{padding:0 .3rem}#hd ul li a:hover{color:#6b8e23}.section{height:100vh}#about{background-color:brown}#showroom{background-color:#3ecbe4}#contact{background-color:#da4d88}/*# sourceMappingURL=origin.min.css.map */
